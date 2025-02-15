@@ -1,4 +1,4 @@
-# 게시판 사이
+# 게시판 사이트
 ![메인페이지](https://github.com/user-attachments/assets/08fafe2c-b429-4e64-a99f-e49b8d96a8f2)
 ![게시판 페이지](https://github.com/user-attachments/assets/d65b93c0-ef7d-4593-a766-5a7b3cfc7cdc)
 
